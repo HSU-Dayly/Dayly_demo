@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: UsernameScreen(),
       theme: ThemeData(
-        fontFamily: 'Kyobo',
+        fontFamily: 'HakgyoansimBadasseugiOTFL',
         primaryColor: const Color.fromRGBO(88, 71, 51, 0.992),
         iconTheme: const IconThemeData(
           color: Color.fromRGBO(88, 71, 51, 0.992),
